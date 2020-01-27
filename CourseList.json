@@ -1,0 +1,14 @@
+{
+	"student": "Qian Jiang",
+	"version": "1.0.0",
+	"timestamp": "2020-01-27T4:43:00+0000",
+	"count": 6,
+	"data": [
+		{ "id": 1, "courseCode": "BTP400", "courseName": "Java Programming" },
+		{ "id": 2, "courseCode": "DPI912", "courseName": "Python for Programmers: Sockets and Security" },
+		{ "id": 3, "courseCode": "DPS912", "courseName": "Topics in UNIX Systems Programming" },
+		{ "id": 4, "courseCode": "DPS923", "courseName": "Mobile App Development for iOS" },
+		{ "id": 5, "courseCode": "BTR820", "courseName": "Research Methodologies and Project" },
+		{ "id": 6, "courseCode": "BTS830", "courseName": "Technology Planning and Acquisition" }
+	]
+}
