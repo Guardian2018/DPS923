@@ -10,5 +10,9 @@
 		{ "id": 4, "courseCode": "DPS923", "courseName": "Mobile App Development for iOS" },
 		{ "id": 5, "courseCode": "BTR820", "courseName": "Research Methodologies and Project" },
 		{ "id": 6, "courseCode": "BTS830", "courseName": "Technology Planning and Acquisition" }
+		{ "id": 7, "courseCode": "BTN410", "courseName": "Network Programming" },
+		{ "id": 8, "courseCode": "BTI425", "courseName": "Web Programming" },
+		{ "id": 9, "courseCode": "BTS430", "courseName": "Software Systems 2" },
+		{ "id": 10, "courseCode": "BTP305", "courseName": "Object-Oriented Software Development using C++11" }
 	]
 }
